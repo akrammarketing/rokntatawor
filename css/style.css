@@ -188,6 +188,9 @@ button {
      padding: 0;
      cursor: pointer;
 }
+.dream h2{
+color: #fff;
+}
 
 .full {
      float: left;
